@@ -1,3 +1,4 @@
+![Banner](https://drive.google.com/uc?export=view&id=18W395rOzRWftwDoW20cfm6axSUu4wwjL)
 # ¡Hola, soy James Gonzalez! 👋
 
 ## Aspirante a Analista de Datos con Experiencia en Gestión de Bares y Restaurantes
@@ -28,6 +29,8 @@ Soy un profesional proactivo y extrovertido con experiencia gestionando bares y 
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white)
 
+### 📊 Mis estadísticas de GitHub
 
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesdagm&layout=compact&theme=gray)
 ---
 
