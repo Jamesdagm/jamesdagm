@@ -1,7 +1,7 @@
 ![Banner](https://drive.google.com/uc?export=view&id=18W395rOzRWftwDoW20cfm6axSUu4wwjL)
 # ¡Hola, soy James Gonzalez! 👋
 
-## Aspirante a Analista de Datos con Experiencia en Gestión de Bares y Restaurantes
+## Analista de Datos con Experiencia en Gestión de Bares y Restaurantes
 
 ---
 
